@@ -31,7 +31,9 @@ Options:
 Examples of Use:
 
 Consider the JVM applet running with the following properties:
-![Screenshot](sshot1.jpg)
+![Screenshot1](sshot1.jpg)
 
+Dumping RMI registry (-d, --dumponly) option gives the following result:
+![Screenshot2](sshot2.jpg)
 
 Please check my Blog for more details: https://marcin-wolak.medium.com/
