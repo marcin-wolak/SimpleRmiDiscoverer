@@ -29,6 +29,7 @@ Options:
 -P,--port <RMI HOST TCP PORT >   TCP port of RMI Registry to query.
  
 Examples of Use:
+
 Consider the JVM applet running with the following properties:
 ![Screenshot](sshot1.jpg)
 
