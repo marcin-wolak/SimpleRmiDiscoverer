@@ -28,6 +28,6 @@ Options:
 
 -P,--port <RMI HOST TCP PORT >   TCP port of RMI Registry to query.
 
-![Screenshot](sshot1.jpeg)
+![Screenshot](sshot1.jpg)
 
 Please check my Blog for more details: https://marcin-wolak.medium.com/
