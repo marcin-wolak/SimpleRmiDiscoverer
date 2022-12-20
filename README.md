@@ -7,7 +7,7 @@ The tool offers the following options for exposed Java JMX:
 - Checking over the RMI Registry IP/Name itself and the TCP port extracted from the above RMI Registry if JMX is user/password protected (with -i, --ignore) and ignoring IP/Name extracted from the RMI Registry
 
 ## Prerequisites
-*[Apache Commons] (https://commons.apache.org/) (for cmd arguments parsing)
+* [Apache Commons] (https://commons.apache.org/) (for cmd arguments parsing)
 
 $ java -cp ".:commons-cli-1.5.0/commons-cli-1.5.0.jar" SimpleRmiDiscoverer.java -H 1.1.1.1 -P 1099 -i --help
 
