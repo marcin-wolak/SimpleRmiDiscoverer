@@ -4,7 +4,7 @@ Simple JMX RMI scanning tool
 The tool offers the following options for exposed Java JMX:
 - Extracting JMX endpoint (IP/Name and TCP port) from RMI Registry (with -d, --dumponly)
 - Checking over IP/Name and TCP port extracted from the above RMI Registry if JMX objects are user/password protected
-- Checking over RMI Registry IP/Name and the TCP port extracted from the above RMI Registry if JMX is user/password protected (with -i, --ignore) and ignoring IP/Name extracted from the RMI Registry
+- Checking over the RMI Registry IP/Name itself and the TCP port extracted from the above RMI Registry if JMX is user/password protected (with -i, --ignore) and ignoring IP/Name extracted from the RMI Registry
 
 The tool requires Apache commons (https://commons.apache.org/) for cmd arguments parsing.
 
