@@ -36,4 +36,9 @@ Consider the JVM applet running with the following properties:
 Dumping RMI registry (-d, --dumponly) option gives the following result:
 ![Screenshot2](sshot2.jpg)
 
+Checking if the host (192.168.229.131) is vulnerable requires in this case using option -i, --ignore.
+It helps ignoring "FakeHost" and using 192.168.229.131 instead together with the dynamic TCP port
+(45057) extracted earlier from RMI Registry:
+![Screenshot3](sshot3.jpg)
+
 Please check my Blog for more details: https://marcin-wolak.medium.com/
