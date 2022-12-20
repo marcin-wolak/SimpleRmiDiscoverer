@@ -27,7 +27,10 @@ Options:
 -i,--ignore                      Uses RMI registry IP for methods invocations. Ignores endpoint (IP) from the Registry dump.
 
 -P,--port <RMI HOST TCP PORT >   TCP port of RMI Registry to query.
-
+ 
+Examples of Use:
+Consider the JVM applet running with the following properties:
 ![Screenshot](sshot1.jpg)
+
 
 Please check my Blog for more details: https://marcin-wolak.medium.com/
