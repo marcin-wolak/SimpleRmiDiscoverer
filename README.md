@@ -31,7 +31,7 @@ Where:
  
 ## Examples of Use:
 
-Consider the JVM applet running with the following properties:
+Consider a JVM applet running with the following properties:
 ![Screenshot1](sshot1.jpg)
 
 Dumping RMI registry (-d, --dumponly) option gives the following result:
