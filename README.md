@@ -1,6 +1,8 @@
 # SimpleRmiDiscoverer
 Simple JMX RMI scanning tool 
 
+Full Code: https://github.com/marcin-wolak/SimpleRmiDiscoverer/blob/master/SimpleRmiDiscoverer.java
+
 The tool offers the following options for exposed Java JMX:
 - Extracting JMX endpoint (IP/Name and TCP port) from RMI Registry (with -d, --dumponly)
 - Checking over IP/Name and TCP port extracted from the above RMI Registry if JMX objects are user/password protected
