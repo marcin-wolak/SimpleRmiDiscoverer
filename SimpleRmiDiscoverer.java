@@ -1,4 +1,5 @@
 // Simple JMX scanner extracting data (IP:Port) from RMI Registry and verifying RCE (using MLet) exploitability without credentials.
+// Version: 0.1
 // Author: Marcin Wolak
 // LinkedIn: https://www.linkedin.com/in/marcinwolak/
 // Medium: https://marcin-wolak.medium.com/
