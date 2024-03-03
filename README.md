@@ -11,7 +11,7 @@ The tool offers the following options for exposed Java JMX:
 ## Prerequisites
 * [Apache Commons] (https://commons.apache.org/) (for cmd arguments parsing)
 
-$ java -cp ".:commons-cli-1.5.0/commons-cli-1.5.0.jar" SimpleRmiDiscoverer.java -H 1.1.1.1 -P 1099 -i --help
+$ javac -cp commons-cli-1.6.0/commons-cli-1.6.0.jar SimpleRmiDiscoverer.java
 
 ## Usage
 
