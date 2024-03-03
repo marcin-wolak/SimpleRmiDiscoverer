@@ -249,7 +249,7 @@ private int invokeDObject()
 	int unipos = findArray(rmiStub, ucRef);
 	System.arraycopy(rmiStub, unipos + 16 + endPIP.length(), hDObj, 7, 8);
 	System.arraycopy(rmiStub, 8, hDObj, 15, 4);
-	System.arraycopy(rmiStub, 16, hDObj, 23, 4);
+	System.arraycopy(rmiStub, 14, hDObj, 21, 6);
 	byte [] buffer = new byte[4096];
 	try {
 		outEndP.write(hDObj, 0, hDObj.length);
